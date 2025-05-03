@@ -98,15 +98,35 @@ Coming soon: I'll be adding open-source tools and monitoring dashboards that ref
 - Building scalable applications with Django REST Framework  
 - Deploying projects using AWS & Google Cloud  
 ---
+---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" height="180"/>
+</p>
+
+---
+
+## ⏳ GitHub Contributions
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" />
+</p>
+
+---
 ### 📬 Let's Connect
 
 - 📧 [riddhimore2021@gmail.com]  
 - 💼 [LinkedIn](https://www.linkedin.com/in/riddhimor/)
 - 🧾 [Resume](https://github.com/user-attachments/files/20024789/resume_riddhi_more.docx)
-<!--- 🧾 [Resume](https://your-resume-link.com) *(optional)*
--->
+
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a192f&height=150&section=footer" />
+</p>
 
 _Always open to collaborating on innovative backend systems, DevOps solutions, or mentorship initiatives._
 
