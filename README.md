@@ -98,6 +98,12 @@ Coming soon: I'll be adding open-source tools and monitoring dashboards that ref
 - Building scalable applications with Django REST Framework  
 - Deploying projects using AWS & Google Cloud  
 ---
+### 📬 Let's Connect
+
+- 📧 [riddhimore2021@gmail.com]  
+- 💼 [LinkedIn](https://www.linkedin.com/in/riddhimor/)
+- 🧾 [Resume](https://github.com/user-attachments/files/20024789/resume_riddhi_more.docx)
+
 ---
 
 ## 📊 GitHub Stats
@@ -114,13 +120,6 @@ Coming soon: I'll be adding open-source tools and monitoring dashboards that ref
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical&hide_border=true" />
 </p>
-
----
-### 📬 Let's Connect
-
-- 📧 [riddhimore2021@gmail.com]  
-- 💼 [LinkedIn](https://www.linkedin.com/in/riddhimor/)
-- 🧾 [Resume](https://github.com/user-attachments/files/20024789/resume_riddhi_more.docx)
 
 ---
 
